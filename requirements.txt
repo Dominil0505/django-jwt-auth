@@ -3,4 +3,4 @@ djangorestframework
 djangorestframework_simplejwt
 psycopg2-binary
 dotenv
-drf_yasg
+drf_spectacular
